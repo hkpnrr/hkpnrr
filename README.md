@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Halil Akpınar</h1>
-<h3 align="center">Full-Stack Developer at Doğuş Teknoloji || Senior Computer Engineering Student at Dokuz Eylul University</h3>
+<h3 align="center">Software Developer at Softtech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkpnrr&label=Profile%20views&color=0e75b6&style=flat" alt="hkpnrr" /> </p>
 
